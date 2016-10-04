@@ -88,7 +88,6 @@ matrix:
       gemfile: gemfiles/sqlite3/5-0.gemfile
 
     # legacy testing
-    #
     # things still run and we don't have a good reason to break it
     # but we don't need to keep running the full matrix
     - gemfile: gemfiles/mysql/3-0.gemfile
